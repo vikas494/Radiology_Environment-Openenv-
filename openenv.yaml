@@ -1,0 +1,18 @@
+spec_version: "1.0"
+environment:
+  name: "ai-radiologist"
+  description: "An interactive diagnostic environment where an AI acts as a radiologist. The agent must examine X-ray images, review patient history, and submit accurate diagnoses."
+  github_repo: "" 
+tasks:
+  - id: "task_easy_01"
+    difficulty: "easy"
+  - id: "task_easy_02"
+    difficulty: "easy"
+  - id: "task_medium_01"
+    difficulty: "medium"
+  - id: "task_medium_02"
+    difficulty: "medium"
+  - id: "task_hard_01"
+    difficulty: "hard"
+  - id: "task_hard_02"
+    difficulty: "hard"
